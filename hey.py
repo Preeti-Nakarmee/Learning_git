@@ -4,6 +4,8 @@ def hey():
 
 print("hey")
 
+print(hey())
+
 hey()
 
 
