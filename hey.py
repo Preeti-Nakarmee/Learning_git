@@ -8,6 +8,7 @@ print(hey())
 
 hey()
 
+print(hey())
 
 def there():
     print("there")
